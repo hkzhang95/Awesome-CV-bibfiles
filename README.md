@@ -12,6 +12,7 @@ Please feel free to send [pull requests](https://github.com/hkzhang95/Awesome-CV
 - [Image Classification](bibfiles/image-classification.bib)
 - [2D General Object Detection](bibfiles/2d-object-detection.bib)
 - [Human Detection](bibfiles/human-detection.bib)
+- [2D Semantic Segmentation](bibfiles/2d-semantic-segmentation.bib)
 
 ## Templates
 - Recommended indentation: **4 spaces**
