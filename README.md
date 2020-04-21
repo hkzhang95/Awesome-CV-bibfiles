@@ -34,7 +34,7 @@ Specially, for the Arxiv version:
 @article{index_name,
     author = {A and B and C},
     title = {title},
-    journal = {arXiv:xxxx.xxxxx},
+    journal = {arXiv preprint arXiv:xxxx.xxxxx},
     year = {xxxx}
 }
 ```
